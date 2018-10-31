@@ -1,1 +1,1 @@
-# PythonDataStrcuturesTutorial
+# PythonDataStructuresTutorial
